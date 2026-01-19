@@ -45,9 +45,9 @@ interpretation of results.
 ## How to Run the Projects
 1. Open any task folder
 2. Upload the `.ipynb` file to Google Colab
-3. Upload the dataset when prompted
-4. Run all cells sequentially
+3. Run all cells sequentially
 
 ## Notes
 Each task is organized in a separate folder with its own notebook and README
 file for better clarity and understanding.
+
